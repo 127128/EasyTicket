@@ -1,5 +1,5 @@
 # EasyTicket
 <br>
-Developed by
-	Anto Vinish
+Developed by<br>
+	Anto Vinish<br>
 	Gopinath Munusamy
